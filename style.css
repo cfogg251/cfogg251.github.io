@@ -1,5 +1,13 @@
-#Center1 {
+#Left1 {
+  	text-align: left;
+  	color: black;
+    font-size: 13px;
+}
+div {
+  animation-delay: 2s;
+  #Center1 {
   	text-align: center;
   	color: black;
     font-size: 20px;
+  }
 }
